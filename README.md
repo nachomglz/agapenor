@@ -11,16 +11,16 @@ This binary crate sends a screenshot of all screens, along with the public IP an
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/your-username/rust-screenshot-sender
+1. Clone the repository: git clone https://github.com/nachomglz/agapenor
 
-2. Change into the directory: cd rust-screenshot-sender
+2. Change into the directory: cd agapenor
 
 3. Build the binary crate: cargo build --release
 
 
 ## Usage
 1. Navigate to the directory where the binary crate is located: cd target/release
-2. Execute the binary crate: ./rust-screenshot-sender
+2. Execute the binary crate: ./agapenor
 3. The program will take a screenshot of all screens, retrieve the public IP and computer hostname, and send them to the external server.
 4. The program will terminate once the data has been sent.
 
