@@ -24,7 +24,7 @@ This binary crate sends a screenshot of all screens, along with the public IP an
 3. The program will take a screenshot of all screens, retrieve the public IP and computer hostname, and send them to the external server.
 4. The program will terminate once the data has been sent.
 
->> Note: The external server URL can be configured in the code before building the binary crate.
+> Note: The external server URL can be configured in the code before building the binary crate.
 
 
 ### Disclaimer
